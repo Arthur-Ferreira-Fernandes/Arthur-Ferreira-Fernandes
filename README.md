@@ -71,13 +71,10 @@ Coleção de scripts para tratamento de dados, manipulação de PDFs, regex avan
 
 ---
 
-
-
----
-
 ## 🌐 Onde me encontrar
 <a href="https://www.linkedin.com/in/arthur-ferreira-02921a249/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-📩 **E-mail:** arthurfernandesferreira@hotmail.com
+<a href="mailto:arthurfernandesferreira@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-$23333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
