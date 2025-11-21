@@ -76,5 +76,5 @@ Coleção de scripts para tratamento de dados, manipulação de PDFs, regex avan
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:arthurfernandesferreira@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-$23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hotmail-233333?style=for-the-badge&logo=hotmail&logoColor=white" />
 </a>
