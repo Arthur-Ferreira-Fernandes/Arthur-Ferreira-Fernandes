@@ -1,16 +1,16 @@
-<!-- Banner ou frase de impacto -->
 <h1 align="center">👋 Olá, eu sou o Arthur Ferreira!</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia, automação e soluções inteligentes.</h3>
+<h3 align="center">Desenvolvedor focado em soluções web, mobile e automação.</h3>
 
 ---
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor com experiência em **PHP**, **MySQL**, **React Native**, **Python**  
-- 🔧 Atualmente trabalhando em projetos de:  
-  • Sistemas web em PHP  
-  • Apps React Native  
-  • Integração com Arduino (HC-05, sensores, automações)  
-- 📍 São Paulo — Brasil  
+- 💼 Desenvolvedor com experiência em **PHP**, **C#**, **.NET**, **MySQL**, **Python** e **React Native**
+- 🧩 Atuo criando:
+  • Sistemas Web em PHP e .NET  
+  • Aplicativos em React Native  
+  • Scripts Python para automações e tratamento de dados  
+  • Integrações com bancos de dados MySQL  
+- 📍 São Paulo — Brasil
 - ✉️ Contato: **seu-email-aqui**
 
 ---
@@ -20,36 +20,44 @@
 <div style="display: inline_block"><br>
 
 <img align="center" alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img align="center" alt="Csharp" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="center" alt="DotNet" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
 <img align="center" alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="JS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Arduino" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<img align="center" alt="ReactNative" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
 </div>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos em Destaque  
+*(Baseado nos seus repositórios — posso ajustar se você quiser incluir/excluir algo)*
 
-### 🔹 **📱 App de Controle de Gastos (React Native + PHP + MySQL)**
-App completo com login, cadastro, controle financeiro e dashboard.
+### 🔹 **Sistema de Imigração – PHP + MySQL**
+Plataforma administrativa para gerenciar processos e etapas de clientes, com dashboard, atualização automática de status e área do cliente.
 
 🔗 *Adicione o link do repositório aqui*
 
 ---
 
-### 🔹 **🤖 Chapéu Seletor Arduino – Teste Vocacional**
-Projeto interativo utilizado em escolas para ajudar alunos a escolher cursos técnicos.
+### 🔹 **API .NET para Gestão de Dados**
+API desenvolvida em C# e .NET para centralizar dados e integração com aplicações externas.
 
-🔗 *Adicione o link quando publicar*
+🔗 *Adicione o link do repositório .NET*
 
 ---
 
-### 🔹 **📊 Sistema de Imigração – Controle de Processos (PHP)**
-Plataforma administrativa para gerenciar estágios do processo de clientes.
+### 🔹 **App de Controle Financeiro – React Native + PHP**
+Aplicativo para controle de gastos com sincronização via API, login, dashboard e notificações.
 
-🔗 *Adicione o link quando estiver pronto*
+🔗 *Adicione o link do app aqui*
+
+---
+
+### 🔹 **Scripts de Automação – Python**
+Coleção de scripts para tratamento de dados, manipulação de PDFs, regex avançado e automação de processos repetitivos.
+
+🔗 *Escolha o repositório Python para mostrar aqui*
 
 ---
 
