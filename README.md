@@ -48,6 +48,17 @@ Plataforma administrativa para gerenciar processos e etapas de clientes, com das
 
 ---
 
+### 🔹 **Scripts de Automação – Python**
+Coleção de scripts para tratamento de dados, manipulação de PDFs, regex avançado e automação de processos repetitivos.
+
+[🔗 *Buscar e Baixar arquivos AWS*](https://github.com/Arthur-Ferreira-Fernandes/Buscar_Baixar_AWS)
+
+[🔗 *Extração de informações PDF*](https://github.com/Arthur-Ferreira-Fernandes/Extracao_pdf)
+
+[🔗 *Validação de planilhas excel*](https://github.com/Arthur-Ferreira-Fernandes/Validacao_Excel)
+
+---
+
 ### 🔹 **.NET para Gestão de Hotel**
 API desenvolvida em C# e .NET para centralizar dados e integração com aplicações externas.
 
@@ -62,14 +73,7 @@ Site para controle de gastos, login, dashboard e notificações.
 
 ---
 
-### 🔹 **Scripts de Automação – Python**
-Coleção de scripts para tratamento de dados, manipulação de PDFs, regex avançado e automação de processos repetitivos.
 
-[🔗 *Baixar arquivos AWS*](https://github.com/Arthur-Ferreira-Fernandes/Baixa_arquivo_AWS)
-
-[🔗 *Copiar arquivos por nome*](https://github.com/Arthur-Ferreira-Fernandes/Copiar_Arquivos_Nome)
-
----
 
 ## 🌐 Onde me encontrar
 <a href="https://www.linkedin.com/in/arthur-ferreira-02921a249/" target="_blank">
